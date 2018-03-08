@@ -1,0 +1,9 @@
+Roadmap:
+
+- Create new repo on Github
+- Create a local repository
+- Include block 1 project files
+- Add, commit and push to Repo
+- Include block 2 project files
+- Push updates to Github
+
