@@ -1,0 +1,3 @@
+About Basic Repo:
+
+Making and pushing a basic Github Repository.
